@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Distrocoin
+Comment=Distrocoin P2P Cryptocurrency
+Comment[fr]=Distrocoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Distrocoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=Distrocoin, una criptomoneda P2P
+Exec=/usr/bin/Distrocoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Distrocoin;
+Categories=Office;
